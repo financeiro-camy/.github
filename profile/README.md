@@ -27,6 +27,7 @@ This application comprises the following main classes:
 - Notificacao
 - Meta
 - Configuracao
+
 Additionally, this application includes JDBC implementations to facilitate SQL code access. These implementations (code) are available in the src folder under "ImplementacaoJDBC", organized into folders named after methods, each containing possible necessary actions in the system.
 
 
