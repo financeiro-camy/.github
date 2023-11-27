@@ -32,10 +32,10 @@ Additionally, this application includes JDBC implementations to facilitate SQL c
 
 
 # Authors
-@ca12loss: Carlos Alberto
-@LiceeIF: Alice Maria
-@MarianaMegumi: Mariana Megumi
-@gyyoshida: Guilherme Yuji
+- @ca12loss: Carlos Alberto
+- @LiceeIF: Alice Maria
+- @MarianaMegumi: Mariana Megumi
+- @gyyoshida: Guilherme Yuji
 
 # Installation
 Install financeiro-camy/interface-Jfx and open it in Visual Studio Code (VSCode):
