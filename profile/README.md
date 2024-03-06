@@ -34,7 +34,7 @@ Additionally, this application includes JDBC implementations to facilitate SQL c
 # Authors
 - @ca12loss: Carlos Alberto
 - @LiceeIF: Alice Maria
-- @MarianaMegumi: Mariana Megumi
+- @MarinoYorinori: Marino Yorinori
 - @gyyoshida: Guilherme Yuji
 
 # Installation
